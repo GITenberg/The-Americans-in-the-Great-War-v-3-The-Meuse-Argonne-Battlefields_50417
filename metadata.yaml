@@ -1,10 +1,16 @@
 _repo: The-Americans-in-the-Great-War-v-3-The-Meuse-Argonne-Battlefields_50417
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50417-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Michelin & Cie
     gutenberg_agent_id: '44747'
     url: http://www.gutenberg.org/2009/agents/44747
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50417#The-Americans-in-the-Great-War-v-3-The-Meuse-Argonne-Battlefields
 gutenberg_issued: '2015-11-09'
 gutenberg_type: Text
 identifiers:
